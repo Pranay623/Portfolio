@@ -1,0 +1,15 @@
+.content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: aliceblue;
+    gap: 15px;
+}
+.content h1{
+    color: white; 
+
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); 
+}
+.foot{
+    background-color: #3b3291;
+}

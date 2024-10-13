@@ -11,14 +11,14 @@ const Navbar = () => {
             <div className="n-right">
                 <div className="n-list">
                     <ul>
-                        <li>Home</li>
-                        <li>Services</li>
-                        <li>Experience</li>
+                        <li><a href="#Parallax">Home</a></li>
+                        <li><a href="#Intro">Skills</a></li>
+                        <li><a href="#About">About</a></li>
                         
-                    </ul>
-                    <button className="button">
+                    </ul><a href="#Footer"><button className="button">
                         Contact Us
-                    </button>
+                    </button></a>
+                    
                 </div>
             </div>
         </div>

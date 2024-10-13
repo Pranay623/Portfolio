@@ -17,14 +17,17 @@ const Intro = () => {
                     <br/>
                     <h2>Web-Developer</h2>
                     <br/>
+                    <br/>
                     <div class="icons">
                     <a href="https://www.instagram.com/_srivastava_pranay_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram Icon" /></a>
                     <a href="https://www.linkedin.com/in/pranay-srivastava-95b839296/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="Instagram Icon" /></a>
                     <a href="https://github.com/Pranay623"><img src="https://img.icons8.com/glyph-neue/48/github.png" alt="Instagram Icon" /></a></div>
                 </div>
-                <button className="button" id="but-1">
+                <br/>
+                <a href="#Footer"><button className="button" id="but-1">
                         Hire Me
-                    </button>
+                    </button></a>
+                
             </div>
             <div className="i-swipe">
     <h1 className="tech">Technical Skills</h1>

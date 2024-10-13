@@ -33,4 +33,23 @@ body {
   border: 1px solid orange;
  }
 
- 
+ html {
+  scroll-behavior: smooth;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px; 
+}
+
+::-webkit-scrollbar-track {
+  background: none; 
+  box-shadow: none; 
+  border: none; 
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #fdc504; 
+  border-radius: 10px; 
+  border: 2px solid transparent; 
+}
