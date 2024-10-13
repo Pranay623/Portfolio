@@ -152,7 +152,7 @@
     }
 
     .card-row {
-        flex-wrap: wrap; /* Ensures cards stack properly on smaller screens */
+        flex-wrap: wrap;
     }
 
     .card {
@@ -161,7 +161,7 @@
     }
 }
 
-/* For mobile phones */
+
 @media (max-width: 480px) {
     .pfp-img {
         width: 10rem;
