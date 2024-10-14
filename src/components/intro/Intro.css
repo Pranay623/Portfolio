@@ -132,7 +132,7 @@
     .pfp-img {
         width: 15rem;
         height: 15rem;
-        left: 0;
+        left: 15rem;
         margin-bottom: 2rem;
     }
 
@@ -143,7 +143,7 @@
     }
 
     #but-1 {
-        margin-left: 0;
+        margin-left: 20rem;
     }
 
     .icons {
@@ -156,8 +156,12 @@
     }
 
     .card {
-        width: 120px;
-        height: 180px;
+        width: 70px;
+        height: 70px;
+    }
+    .card img{
+        width: 60px;
+        height: 60px;
     }
 }
 
